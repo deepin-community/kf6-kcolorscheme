@@ -1,5 +1,40 @@
-template-repository (1.0-1) unstable; urgency=medium
+kf6-kcolorscheme (6.6.0-1) unstable; urgency=medium
 
-  * Initial release
+  [ Aurélien COUDERC ]
+  * New upstream release (6.6.0).
+  * Update build-deps and deps with the info from cmake.
+  * Update symbols from build for 6.6.0.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Aurélien COUDERC <coucouf@debian.org>  Fri, 06 Sep 2024 23:09:31 +0200
+
+kf6-kcolorscheme (6.5.0-1) unstable; urgency=medium
+
+  [ Aurélien COUDERC ]
+  * New upstream release (6.5.0).
+  * Update build-deps and deps with the info from cmake.
+  * Release to unstable.
+
+ -- Aurélien COUDERC <coucouf@debian.org>  Sat, 10 Aug 2024 23:22:03 +0200
+
+kf6-kcolorscheme (6.4.0-1) experimental; urgency=medium
+
+  [ Aurélien COUDERC ]
+  * New upstream release (6.4.0).
+  * Update build-deps and deps with the info from cmake.
+
+ -- Aurélien COUDERC <coucouf@debian.org>  Fri, 19 Jul 2024 09:24:24 +0200
+
+kf6-kcolorscheme (6.3.0-1) experimental; urgency=medium
+
+  [ Patrick Franz ]
+  * New upstream release (6.3.0).
+  * Bump Standards-Version to 4.7.0 (No changes needed).
+  * Update build-deps and deps with the info from cmake.
+
+ -- Patrick Franz <deltaone@debian.org>  Sun, 09 Jun 2024 14:55:10 +0200
+
+kf6-kcolorscheme (6.0.0-1) experimental; urgency=medium
+
+  * Initial release. (Closes: #1068520)
+
+ -- Patrick Franz <deltaone@debian.org>  Tue, 09 Apr 2024 00:35:56 +0200
