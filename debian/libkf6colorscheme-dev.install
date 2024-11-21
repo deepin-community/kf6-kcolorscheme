@@ -1,0 +1,3 @@
+usr/include/KF6/KColorScheme/
+usr/lib/*/cmake/KF6ColorScheme/
+usr/lib/*/libKF6ColorScheme.so

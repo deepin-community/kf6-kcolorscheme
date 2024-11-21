@@ -1,1 +1,5 @@
-# template-repository
+# KColorScheme
+
+Classes to read and interact with KColorScheme
+
+
